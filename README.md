@@ -7,6 +7,6 @@ Supposed to cause havoc on the Windows host it's being executed on
 
 [+] How it works
 
--- The havoc is caused only if the right number is guessed.
+-- The havoc is caused only if the right number is guessed.\n
 -- Feel free to try it out. The possibility of you guessing the right number is next to zero.
 
